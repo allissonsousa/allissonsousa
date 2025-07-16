@@ -20,6 +20,6 @@
 <a href=https://www.linkedin.com/in/alllisson-sousa-541b39296 target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"  width=30px /></a>
 <a href=http://allissonsousa7@outlook.com  target="_blank"><img src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000"  width=30px /></a>
 
-
+<h1>Stats</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allissonsousa)](https://github.com/allissonsousa/github-readme-stats)
