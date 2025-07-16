@@ -22,4 +22,4 @@
 
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allissonsousa&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allissonsousa)](https://github.com/allissonsousa/github-readme-stats)
