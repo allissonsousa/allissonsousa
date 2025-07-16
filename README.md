@@ -1,5 +1,21 @@
-## Hi there 👋
+<h1> Olá dev !</h1>
+<p>Bem vindo ao meu perfil, <br> Aqui voce encontrará todo material resultante dos meus estudos da minha carreira na programação. </p>
 
+<p>Linguagens e tecnologias que eu mais utilizei até o presente momento >></p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
+
+          
+          
+          
+          
 <!--
 **allissonsousa/allissonsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
