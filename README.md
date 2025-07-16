@@ -1,4 +1,4 @@
-<h1> Olá dev !</h1>
+<h1 style="aling-self:center"> Bem vindo ao meu perfil!</h1>
 <p>Bem vindo ao meu perfil, <br> Aqui voce encontrará todo material resultante dos meus estudos da minha carreira na programação. </p>
 
 <p>Linguagens e tecnologias que eu mais utilizei até o presente momento >></p>
