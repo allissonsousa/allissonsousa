@@ -17,8 +17,8 @@
 <h3>🎯 ☕ >> Atualmente estou focado nos meus estudos em Java e planejo levar essa linguagem comigo pelo resto da minha vida !!<h3>
           
 <h3>Onde me encontrar >> </h3>
-<a href=https://www.linkedin.com/in/alllisson-sousa-541b39296 ><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" margin="20px" width=30px /></a>
-<a href=allissonsousa7@outlook.com ><img src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000" margin="20px" width=30px /></a>
+<a href=https://www.linkedin.com/in/alllisson-sousa-541b39296 target="blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" margin="40px" width=30px /></a>
+<a href=http://allissonsousa7@outlook.com  target="blank"><img src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000" margin="24px" width=30px /></a>
           
           
           
