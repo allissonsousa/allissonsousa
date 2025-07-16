@@ -23,3 +23,4 @@
 <h1>Stats</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allissonsousa)](https://github.com/allissonsousa/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
