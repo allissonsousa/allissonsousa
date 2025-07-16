@@ -6,12 +6,12 @@
 <p>🏆 🔎 >> Linguagens e tecnologias que eu mais utilizei até o presente momento >></p>
 
 <div style = "display:flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style = "margin: 20" width=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style = "margin: 20" width=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style = "margin: 20" width=30px/>        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style = "margin: 20" width=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style = "margin: 20" width=30px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style = "margin: 20" width=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style = "margin: 20px" width=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style = "margin: 20px" width=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style = "margin: 20px" width=30px/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style = "margin: 20px" width=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style = "margin: 20px" width=30px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style = "margin: 20px" width=30px/>
 </div>
 <br>
 <h3>🎯 ☕ >> Atualmente estou focado nos meus estudos em Java e planejo levar essa linguagem comigo pelo resto da minha vida !!<h3>
